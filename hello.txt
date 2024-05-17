@@ -1,5 +1,1 @@
-
-hello world
-hello world
-other people has added one more line
-other line also
+line 1 master branch
